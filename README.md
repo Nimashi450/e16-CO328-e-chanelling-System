@@ -1,7 +1,7 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# E - Channeling System
 ___
 
-## Please refer the instructions in below URL:
+## Group - 13
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+
